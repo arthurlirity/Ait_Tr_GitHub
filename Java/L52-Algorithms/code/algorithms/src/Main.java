@@ -14,6 +14,7 @@ public class Main {
                 max = ints[i];
             }
         }
+
         return max;
     }
 }
