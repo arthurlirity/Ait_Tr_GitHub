@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(44, 32, 54);
+    font-size: 32px;
+    color: whitesmoke;
+    margin: 0;
+}
+
+.outer1 {
+height: 200px;
+background-color: indianred;
+/* padding: 25px ; */
+margin: 0 auto 10px;
+width: 90%;
+border-top: 1px;
+border-top: 3px solid white;
+}
+
+.outer2 {
+    height: 200px;
+    background-color: rgb(24, 96, 198);
+    margin-top: 20px;
+}
+
+.inner1 {
+    height: 140px;
+    background-color: rgb(31, 131, 126);
+    width: 80%;
+
+}

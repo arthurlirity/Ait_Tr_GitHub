@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L42-Access_Modifiers_Static_Equals/code/Access_Example/Access_Example.iml" filepath="$PROJECT_DIR$/L42-Access_Modifiers_Static_Equals/code/Access_Example/Access_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L37-Abstract_Inheritance/code/Animals_Veterinar/Animals_Veterinar.iml" filepath="$PROJECT_DIR$/L37-Abstract_Inheritance/code/Animals_Veterinar/Animals_Veterinar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L30-Numeral_System/code/BinarySystem1/BinarySystem1.iml" filepath="$PROJECT_DIR$/L30-Numeral_System/code/BinarySystem1/BinarySystem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L30-Numeral_System/code/BinarySystem2/BinarySystem2.iml" filepath="$PROJECT_DIR$/L30-Numeral_System/code/BinarySystem2/BinarySystem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L38-Repetition/code/Bus/Bus.iml" filepath="$PROJECT_DIR$/L38-Repetition/code/Bus/Bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L40-Polymorphism/code/Cars/Cars.iml" filepath="$PROJECT_DIR$/L40-Polymorphism/code/Cars/Cars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L32-Enum/code/CoffeeMachine/CoffeeMachine.iml" filepath="$PROJECT_DIR$/L32-Enum/code/CoffeeMachine/CoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L39-Inheritance/code/Dancer/Dancer.iml" filepath="$PROJECT_DIR$/L39-Inheritance/code/Dancer/Dancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L37-Abstract_Inheritance/code/Employee_Salary/Employee_Salary.iml" filepath="$PROJECT_DIR$/L37-Abstract_Inheritance/code/Employee_Salary/Employee_Salary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L32-Enum/code/EnumExample/EnumExample.iml" filepath="$PROJECT_DIR$/L32-Enum/code/EnumExample/EnumExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L35-Classes_Objects_Methods/code/Example1/Example1.iml" filepath="$PROJECT_DIR$/L35-Classes_Objects_Methods/code/Example1/Example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-Files_IO/code/File_IO_Example1/File_IO_Example1.iml" filepath="$PROJECT_DIR$/L31-Files_IO/code/File_IO_Example1/File_IO_Example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L51-Repetition/code/FindMinOrMax/FindMinOrMax.iml" filepath="$PROJECT_DIR$/L51-Repetition/code/FindMinOrMax/FindMinOrMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L51-Repetition/code/Garbage_Sorter/Garbage_Sorter.iml" filepath="$PROJECT_DIR$/L51-Repetition/code/Garbage_Sorter/Garbage_Sorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L51-Repetition/code/Homework/Homework.iml" filepath="$PROJECT_DIR$/L51-Repetition/code/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L30-Numeral_System/code/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/L30-Numeral_System/code/Homework1/Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L34-Repetition/code/Homework/Homework2.iml" filepath="$PROJECT_DIR$/L34-Repetition/code/Homework/Homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-Files_IO/code/Homework31-1/Homework31-1.iml" filepath="$PROJECT_DIR$/L31-Files_IO/code/Homework31-1/Homework31-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-Files_IO/code/Homework31-2/Homework31-2.iml" filepath="$PROJECT_DIR$/L31-Files_IO/code/Homework31-2/Homework31-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-Files_IO/code/Homework31-3/Homework31-3.iml" filepath="$PROJECT_DIR$/L31-Files_IO/code/Homework31-3/Homework31-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L32-Enum/code/Homework32-1/Homework32-1.iml" filepath="$PROJECT_DIR$/L32-Enum/code/Homework32-1/Homework32-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L32-Enum/code/Homework32-2/Homework32-2.iml" filepath="$PROJECT_DIR$/L32-Enum/code/Homework32-2/Homework32-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L35-Classes_Objects_Methods/code/Homework35/Homework35.iml" filepath="$PROJECT_DIR$/L35-Classes_Objects_Methods/code/Homework35/Homework35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L36-Constructor_Getter_Setter/code/Homework36/Homework36.iml" filepath="$PROJECT_DIR$/L36-Constructor_Getter_Setter/code/Homework36/Homework36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L37-Abstract_Inheritance/code/Homework37-1/Homework37-1.iml" filepath="$PROJECT_DIR$/L37-Abstract_Inheritance/code/Homework37-1/Homework37-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L40-Polymorphism/code/Human/Human.iml" filepath="$PROJECT_DIR$/L40-Polymorphism/code/Human/Human.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L41-Interface_Object/code/Interface_Example/Interface_Example.iml" filepath="$PROJECT_DIR$/L41-Interface_Object/code/Interface_Example/Interface_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L43-Static_Equals_Practice_InternetShop/code/Internet_Shop/Internet_Shop.iml" filepath="$PROJECT_DIR$/L43-Static_Equals_Practice_InternetShop/code/Internet_Shop/Internet_Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L49-Unit_Testing/L49-Unit_Testing.iml" filepath="$PROJECT_DIR$/L49-Unit_Testing/L49-Unit_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L50-Date_Time/L50-Date_Time.iml" filepath="$PROJECT_DIR$/L50-Date_Time/L50-Date_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L52-Algorithms/L52-Algorithms.iml" filepath="$PROJECT_DIR$/L52-Algorithms/L52-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-Files_IO/code/NumericSystems/NumericSystems.iml" filepath="$PROJECT_DIR$/L31-Files_IO/code/NumericSystems/NumericSystems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L41-Interface_Object/code/Object_Equal_Example/Object_Equal_Example.iml" filepath="$PROJECT_DIR$/L41-Interface_Object/code/Object_Equal_Example/Object_Equal_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L36-Constructor_Getter_Setter/code/Phone/Phone.iml" filepath="$PROJECT_DIR$/L36-Constructor_Getter_Setter/code/Phone/Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L51-Repetition/code/Print_Digits/Print_Digits.iml" filepath="$PROJECT_DIR$/L51-Repetition/code/Print_Digits/Print_Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31-Files_IO/code/Restaurant_Bot1/Restaurant_Bot1.iml" filepath="$PROJECT_DIR$/L31-Files_IO/code/Restaurant_Bot1/Restaurant_Bot1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L39-Inheritance/code/Shape/Shape.iml" filepath="$PROJECT_DIR$/L39-Inheritance/code/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/code/ToDoList/ToDoList.iml" filepath="$PROJECT_DIR$/Projects/code/ToDoList/ToDoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/code/ToDoList_2/ToDoList_2.iml" filepath="$PROJECT_DIR$/Projects/code/ToDoList_2/ToDoList_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/code/ToDoList_3/ToDoList_3.iml" filepath="$PROJECT_DIR$/Projects/code/ToDoList_3/ToDoList_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L34-Repetition/code/To_Do_List/To_Do_List.iml" filepath="$PROJECT_DIR$/L34-Repetition/code/To_Do_List/To_Do_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L38-Repetition/code/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/L38-Repetition/code/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L41-Interface_Object/code/Two_Interfaces/Two_Interfaces.iml" filepath="$PROJECT_DIR$/L41-Interface_Object/code/Two_Interfaces/Two_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L38-Repetition/code/Voter/Voter.iml" filepath="$PROJECT_DIR$/L38-Repetition/code/Voter/Voter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L44-TreeSet/code/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/L44-TreeSet/code/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L39-Inheritance/code/bus/bus.iml" filepath="$PROJECT_DIR$/L39-Inheritance/code/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L45-Interface_Comparable/code/comparable_example/comparable_example.iml" filepath="$PROJECT_DIR$/L45-Interface_Comparable/code/comparable_example/comparable_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L46-Comparator/code/comparing_objects_0/comparing_objects_0.iml" filepath="$PROJECT_DIR$/L46-Comparator/code/comparing_objects_0/comparing_objects_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L46-Comparator/code/comparing_objects_1/comparing_objects_1.iml" filepath="$PROJECT_DIR$/L46-Comparator/code/comparing_objects_1/comparing_objects_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L46-Comparator/code/comparing_objects_3/comparing_objects_3.iml" filepath="$PROJECT_DIR$/L46-Comparator/code/comparing_objects_3/comparing_objects_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L44-TreeSet/code/example_l44/example_l44.iml" filepath="$PROJECT_DIR$/L44-TreeSet/code/example_l44/example_l44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L45-Interface_Comparable/code/homework45/homework45.iml" filepath="$PROJECT_DIR$/L45-Interface_Comparable/code/homework45/homework45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L42-Access_Modifiers_Static_Equals/code/money/money.iml" filepath="$PROJECT_DIR$/L42-Access_Modifiers_Static_Equals/code/money/money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L45-Interface_Comparable/code/my_example/my_example.iml" filepath="$PROJECT_DIR$/L45-Interface_Comparable/code/my_example/my_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L43-Static_Equals_Practice_InternetShop/code/static_example/static_example.iml" filepath="$PROJECT_DIR$/L43-Static_Equals_Practice_InternetShop/code/static_example/static_example.iml" />
+    </modules>
+  </component>
+</project>
