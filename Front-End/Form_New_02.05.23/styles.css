@@ -1,50 +1,52 @@
-form{
-    display: flex;
-    flex-direction: column;
-    max-width: 600px;
-    margin: 0 auto;
-    font-size: 16px;
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 16px;
 }
 
-label{
-    margin-bottom: 5px;
-    font-weight: bold;
+label {
+  margin-bottom: 5px;
+  font-weight: bold;
 }
 
-input, select, textarea {
-    padding: 10px;
-    margin-bottom: 15px;
-    border-radius: 5px;
-    border: 1px solid black;
+input,
+select,
+textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid black;
 }
 
-textarea{
-    height: 150px;
+textarea {
+  height: 150px;
 }
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-span{
-    color: red;
-}
-
-input[type="checkbox"]{
-
-    align-self: flex-start;
+span {
+  color: red;
 }
 
-input[type="submit"], input[type="reset"]{
-color:whitesmoke;
-padding: 10px 20px;
-border-radius: 5px;
-border: none;
-font-size: 16px;
-cursor: pointer;
+input[type="checkbox"] {
+  align-self: flex-start;
 }
 
-input[type="submit"]{
-background-color: green;
+input[type="submit"],
+input[type="reset"] {
+  color: whitesmoke;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
 }
-input[type="reset"]{
-    background-color: red;
+
+input[type="submit"] {
+  background-color: green;
+}
+input[type="reset"] {
+  background-color: red;
 }
