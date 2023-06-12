@@ -169,15 +169,28 @@ console.log(res ? "Lucky" : "Unlucky");
 //    return sum;
 // }
 
+// function luckyNumber(x) {
+//     if (typeof +x !== 'number' || x < 100) return false;
+//     const numberLength = ('' + x).length;
+//     // const mid = numberLength % 2 === 0 ? numberLength / 2 : numberLength / 2 -1;
+//     const mid = Math.floor(numberLength/2);
+//     const subStr1 = ('' + x).substring(0, mid); // (start, finish) - start входит в новую подстроку, finish не входит
+//     // const subStr2 = numberLength % 2 === 0 ? ('' + x).substring(mid);
+//     const subStr2 = ('' + x).substring(numberLength - mid);
+//    return sumDigits (+subStr1) === sumDigits(+subStr2);
+// }
+
 function luckyNumber(x) {
     if (typeof +x !== 'number' || x < 100) return false;
-    const numberLength = ('' + x).length;
-    // const mid = numberLength % 2 === 0 ? numberLength / 2 : numberLength / 2 -1;
-    const mid = Math.floor(numberLength/2);
-    const subStr1 = ('' + x).substring(0, mid); // (start, finish) - start входит в новую подстроку, finish не входит
-    // const subStr2 = numberLength % 2 === 0 ? ('' + x).substring(mid);
-    const subStr2 = ('' + x).substring(numberLength - mid);
-   return sumDigits (+subStr1) === sumDigits(+subStr2);
+    const str ('' +x);
+    const mid = Math.floor(str.length / 2);
+    let leftSum = 0;
+    let rightSum = 0;
+    for (let i = 0; i < mid; i++) {
+        leftSum += +str[i];
+        rightSum += +str[str.length - i - 1];
+    }
+    return leftSum === rightSum;
 }
 
 
