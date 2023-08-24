@@ -1,2 +1,5 @@
-package de.aittr.iocdemo;public interface DeliveryService {
+package de.aittr.iocdemo;
+
+public interface DeliveryService {
+    void deliveryMessage();
 }

@@ -1,2 +1,4 @@
-package de.aittr.iocdemo;public interface Connection {
+package de.aittr.iocdemo;
+
+public interface Connection {
 }
